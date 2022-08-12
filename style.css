@@ -1,0 +1,24 @@
+.card {
+  background: #c9c9c9;
+  width: 300px;
+  height: 500px; 
+  border-radius: 12px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row-reverse;
+  padding: 10px;
+  background: red;
+  margin-top: 10px;
+}
+
+.close {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
